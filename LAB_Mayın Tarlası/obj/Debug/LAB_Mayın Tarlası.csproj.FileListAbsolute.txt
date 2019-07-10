@@ -1,0 +1,42 @@
+C:\Users\Section1\Desktop\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\bin\Debug\LAB_Mayın Tarlası.exe.config
+C:\Users\Section1\Desktop\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\bin\Debug\LAB_Mayın Tarlası.exe
+C:\Users\Section1\Desktop\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\bin\Debug\LAB_Mayın Tarlası.pdb
+C:\Users\Section1\Desktop\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın Tarlası.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın_Tarlası.Form1.resources
+C:\Users\Section1\Desktop\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın_Tarlası.Properties.Resources.resources
+C:\Users\Section1\Desktop\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın Tarlası.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın Tarlası.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın Tarlası.exe
+C:\Users\Section1\Desktop\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın Tarlası.pdb
+C:\Users\dilara\Desktop\Yazılım\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\bin\Debug\LAB_Mayın Tarlası.exe.config
+C:\Users\dilara\Desktop\Yazılım\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\bin\Debug\LAB_Mayın Tarlası.exe
+C:\Users\dilara\Desktop\Yazılım\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\bin\Debug\LAB_Mayın Tarlası.pdb
+C:\Users\dilara\Desktop\Yazılım\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın Tarlası.csprojAssemblyReference.cache
+C:\Users\dilara\Desktop\Yazılım\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın_Tarlası.Form1.resources
+C:\Users\dilara\Desktop\Yazılım\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın_Tarlası.Properties.Resources.resources
+C:\Users\dilara\Desktop\Yazılım\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın Tarlası.csproj.GenerateResource.cache
+C:\Users\dilara\Desktop\Yazılım\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın Tarlası.csproj.CoreCompileInputs.cache
+C:\Users\dilara\Desktop\Yazılım\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın Tarlası.exe
+C:\Users\dilara\Desktop\Yazılım\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın Tarlası.pdb
+C:\Users\Section1\Desktop\LAB_Mayın Tarlası\LAB_Mayın Tarlası\bin\Debug\LAB_Mayın Tarlası.exe.config
+C:\Users\Section1\Desktop\LAB_Mayın Tarlası\LAB_Mayın Tarlası\bin\Debug\LAB_Mayın Tarlası.exe
+C:\Users\Section1\Desktop\LAB_Mayın Tarlası\LAB_Mayın Tarlası\bin\Debug\LAB_Mayın Tarlası.pdb
+C:\Users\Section1\Desktop\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın Tarlası.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın_Tarlası.Form1.resources
+C:\Users\Section1\Desktop\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın_Tarlası.Properties.Resources.resources
+C:\Users\Section1\Desktop\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın Tarlası.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın Tarlası.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın Tarlası.exe
+C:\Users\Section1\Desktop\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın Tarlası.pdb
+C:\Users\Section1\Desktop\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın_Tarlası.Form2.resources
+C:\Users\dilara\Desktop\wissen\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\bin\Debug\LAB_Mayın Tarlası.exe.config
+C:\Users\dilara\Desktop\wissen\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\bin\Debug\LAB_Mayın Tarlası.exe
+C:\Users\dilara\Desktop\wissen\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\bin\Debug\LAB_Mayın Tarlası.pdb
+C:\Users\dilara\Desktop\wissen\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın Tarlası.csprojAssemblyReference.cache
+C:\Users\dilara\Desktop\wissen\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın_Tarlası.Form1.resources
+C:\Users\dilara\Desktop\wissen\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın_Tarlası.Form2.resources
+C:\Users\dilara\Desktop\wissen\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın_Tarlası.Properties.Resources.resources
+C:\Users\dilara\Desktop\wissen\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın Tarlası.csproj.GenerateResource.cache
+C:\Users\dilara\Desktop\wissen\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın Tarlası.csproj.CoreCompileInputs.cache
+C:\Users\dilara\Desktop\wissen\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın Tarlası.exe
+C:\Users\dilara\Desktop\wissen\Yazılım\Lab\LAB_Mayın Tarlası\LAB_Mayın Tarlası\obj\Debug\LAB_Mayın Tarlası.pdb
